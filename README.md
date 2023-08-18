@@ -6,7 +6,7 @@
 Re: Musical Events TF2C Port is the unofficial continuation of Musical Event TF2C port created by pointhurt, which was deleted by author from GameBanana. This is a huge pack of sounds that will play when certain event occurs, something kind of like music kits from CSGO. Details below:
 
 There are 2 editions of this mod:
--**Barebones** - It is TF2C Styled with TF2C Spirit music kit for basic events made for die-hard TF2C fans who adore its one of a kind special TF2C artstyle (such as myself). It is more polished; it won't break your "TF2C immersion".
+* **Barebones** - It is TF2C Styled with TF2C Spirit music kit for basic events made for die-hard TF2C fans who adore its one of a kind special TF2C artstyle (such as myself). It is more polished; it won't break your "TF2C immersion".
 
 * ~~**Definitive** - An extensive, personal and, well, definitive edition for the standard pack. It still has this TF2C spirit, yet its like a big goo of every TF2C theme (EOTL, Invasion, FRONTLINE, OF, 2007 era, etc.). It comes with more musical events, as well as its multiple random variations, but it is highly experimental, so there are more overlapping sounds I couldn't fix with simple soundscripts files.~~ Definitive version will be coming at the later date; for now Porting Bare bones to TF2C is the first priority.
 
