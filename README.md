@@ -21,8 +21,7 @@ There are 2 editions of this mod:
 * Overtime #2: [Overtime](https://cdn.discordapp.com/attachments/561311973757943808/814668123185479680/overtime.ogg) by [ChargingTurnip](https://www.youtube.com/@ChargingTurnip)
 * Overtime #3: Scraping Seconds by [GamePlayah](https://soundcloud.com/gameplayah)
 * Overtime #4: Intruder Alert (Overtime Mix) by Unknown Artist (Please let me know in issue tracker if you find the author and I will update it!)
-* Siren #1: [Team Fortress 2 Theme](https://www.youtube.com/watch?v=PDM2qukzKwg) by [Valve Studio Orchestra](https://www.valvesoftware.com/en/)
-* Siren #2: [The Sound of Warfare](https://www.youtube.com/watch?v=scOZ6HzhHBY) by [HA Composers UK](https://www.youtube.com/@HAComposerUK)
+* Siren: [Team Fortress 2 Theme](https://www.youtube.com/watch?v=PDM2qukzKwg) by [Valve Studio Orchestra](https://www.valvesoftware.com/en/)
 
 ### Definitive Edition
 * Your Team Won/Lost: [TF2C Deathmatch Winpanel Music](https://youtu.be/dHP6-1-Mu0A?t=40) by [Eminoma](https://twitter.com/EminomaTeam)
