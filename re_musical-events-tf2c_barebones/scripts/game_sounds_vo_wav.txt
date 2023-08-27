@@ -909,16 +909,16 @@
 "Announcer.ControlPointContested"
 {
 	"channel"		"CHAN_VOICE2"
-	"volume"		"VOL_NORM"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 
-	"soundlevel"	"SNDLVL_NORM"
+	"soundlevel"	"SNDLVL_NONE"
 
 	"rndwave"
 	{
-		"wave"	"vo/announcer_control_point_warning.wav"
-		"wave"	"vo/announcer_control_point_warning2.wav"
-		"wave"	"vo/announcer_control_point_warning3.wav"
+		"wave"	"#*vo/announcer_control_point_warning.wav"
+		"wave"	"#*vo/announcer_control_point_warning2.wav"
+		"wave"	"#*vo/announcer_control_point_warning3.wav"
 	}
 }
 
@@ -1050,7 +1050,7 @@
 "Announcer.RoundBegins60Seconds"
 {
 	"channel"		"CHAN_STATIC"
-	"volume"		"VOL_NORM"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 
 	"soundlevel"	"SNDLVL_NONE"
@@ -1171,7 +1171,7 @@
 "Announcer.RoundEnds60seconds"
 {
 	"channel"		"CHAN_VOICE2"
-	"volume"		"VOL_NORM"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 
 	"soundlevel"	"SNDLVL_NONE"
@@ -1231,7 +1231,7 @@
 
 	"soundlevel"	"SNDLVL_NONE"
 
-	"wave"			"vo/announcer_time_added.wav"
+	"wave"			"#vo/announcer_time_added.wav"
 }
 
 "Announcer.TimeAddedForEnemy"
@@ -1253,7 +1253,7 @@
 
 	"soundlevel"	"SNDLVL_NONE"
 
-	"wave"			"vo/announcer_time_awarded.wav"
+	"wave"			"#vo/announcer_time_awarded.wav"
 }
 
 "Announcer.TimeAwardedCongrats"
@@ -1264,7 +1264,7 @@
 
 	"soundlevel"	"SNDLVL_NONE"
 
-	"wave"			"vo/announcer_time_awarded_congrats.wav"
+	"wave"			"#vo/announcer_time_awarded_congrats.wav"
 }
 
 "Announcer.TimeAwardedForTeam"
@@ -1587,7 +1587,7 @@
 
 	"soundlevel"	"SNDLVL_NONE"
 
-	"wave"			"vo/intel_teamreturned.wav"
+	"wave"			"#*vo/intel_teamreturned.wav"
 }
 
 "CaptureFlag.TeamStolen"
@@ -1611,8 +1611,8 @@
 
 	"rndwave"
 	{
-		"wave"	"vo/announcer_last_flag.wav"
-		"wave"	"vo/announcer_last_flag2.wav"
+		"wave"	"#*vo/announcer_last_flag.wav"
+		"wave"	"#*vo/announcer_last_flag2.wav"
 	}
 }
 
