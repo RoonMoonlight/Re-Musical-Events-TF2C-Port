@@ -1547,6 +1547,7 @@
 	"soundlevel"	"SNDLVL_NONE"
 
 	"wave"			"#*vo/intel_teamcaptured.wav"
+	"wave"			"#*vo/intel_teamcaptured2.wav"
 }
 
 "CaptureFlag.TeamCapturedExcited"
